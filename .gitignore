@@ -1,7 +1,8 @@
 # Files
 *.pdb
-*.txt
+
 
 #Directories
 analyzed/
 raw/
+tmp/
